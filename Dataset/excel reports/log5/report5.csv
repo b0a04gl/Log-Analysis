@@ -1,0 +1,6 @@
+,CATEGORY,DOMINANCE VALUE
+0,device state change,8
+1,error,38
+2,host name conflict,14
+3,server misbehaving,19
+4,warning,18

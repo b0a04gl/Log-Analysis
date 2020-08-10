@@ -1,0 +1,486 @@
+Oct  9 05:07:50 jeevams-hp-laptop-15-bs0 systemd-resolved[777]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct  9 05:08:17 jeevams-hp-laptop-15-bs0 anacron[6539]: Job `cron.daily' terminated
+Oct  9 05:08:17 jeevams-hp-laptop-15-bs0 anacron[6539]: Normal exit (1 job run)
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: SME: Trying to authenticate with d8:84:66:5b:99:68 (SSID='Anna-WiFi' freq=2472 MHz)
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 kernel: [88611.457591] wlo1: disconnect from AP d8:84:66:5b:33:e8 for new auth to d8:84:66:5b:99:68
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 kernel: [88611.485934] wlo1: authenticate with d8:84:66:5b:99:68
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 kernel: [88611.536044] wlo1: send auth to d8:84:66:5b:99:68 (try 1/3)
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570577934.4612] device (wlo1): supplicant interface state: completed -> authenticating
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 kernel: [88611.639129] wlo1: send auth to d8:84:66:5b:99:68 (try 2/3)
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 kernel: [88611.743041] wlo1: send auth to d8:84:66:5b:99:68 (try 3/3)
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 kernel: [88611.847118] wlo1: authentication with d8:84:66:5b:99:68 timed out
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570577934.8508] device (wlo1): supplicant interface state: authenticating -> disconnected
+Oct  9 05:08:54 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570577934.9508] device (wlo1): supplicant interface state: disconnected -> scanning
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: SME: Trying to authenticate with d8:84:66:5b:33:e8 (SSID='Anna-WiFi' freq=2412 MHz)
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 kernel: [88612.218042] wlo1: authenticate with d8:84:66:5b:33:e8
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 kernel: [88612.218058] wlo1: No basic rates, using min rate instead
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 kernel: [88612.228238] wlo1: send auth to d8:84:66:5b:33:e8 (try 1/3)
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570577935.1492] device (wlo1): supplicant interface state: scanning -> authenticating
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 kernel: [88612.331036] wlo1: send auth to d8:84:66:5b:33:e8 (try 2/3)
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 kernel: [88612.335470] wlo1: authenticated
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 kernel: [88612.339063] wlo1: associate with d8:84:66:5b:33:e8 (try 1/3)
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570577935.2619] device (wlo1): supplicant interface state: authenticating -> associating
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: Trying to associate with d8:84:66:5b:33:e8 (SSID='Anna-WiFi' freq=2412 MHz)
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 kernel: [88612.344101] wlo1: RX AssocResp from d8:84:66:5b:33:e8 (capab=0x411 status=0 aid=1)
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: Associated with d8:84:66:5b:33:e8
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-SUBNET-STATUS-UPDATE status=0
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 kernel: [88612.620121] wlo1: associated
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570577935.5450] device (wlo1): supplicant interface state: associating -> associated
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: WPA: Key negotiation completed with d8:84:66:5b:33:e8 [PTK=CCMP GTK=CCMP]
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-CONNECTED - Connection to d8:84:66:5b:33:e8 completed [id=0 id_str=]
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: bgscan simple: Failed to enable signal strength monitoring
+Oct  9 05:08:55 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570577935.8764] device (wlo1): supplicant interface state: associated -> completed
+Oct  9 05:08:57 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4242:4263:1009/050857.990947:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -111
+Oct  9 05:08:58 jeevams-hp-laptop-15-bs0 systemd-resolved[777]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct  9 05:08:58 jeevams-hp-laptop-15-bs0 systemd-resolved[777]: message repeated 2 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct  9 05:13:37 jeevams-hp-laptop-15-bs0 systemd-timesyncd[778]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Oct  9 05:13:47 jeevams-hp-laptop-15-bs0 systemd-timesyncd[778]: Timed out waiting for reply from 91.189.89.199:123 (ntp.ubuntu.com).
+Oct  9 05:13:57 jeevams-hp-laptop-15-bs0 systemd-timesyncd[778]: Timed out waiting for reply from 91.189.89.198:123 (ntp.ubuntu.com).
+Oct  9 05:14:08 jeevams-hp-laptop-15-bs0 systemd-timesyncd[778]: Timed out waiting for reply from 91.189.94.4:123 (ntp.ubuntu.com).
+Oct  9 05:14:33 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/051433.125401:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 05:14:33 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/051433.126712:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 05:14:33 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/051433.127662:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 05:14:33 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/051433.128255:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 05:16:47 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: WPA: Group rekeying completed with d8:84:66:5b:33:e8 [GTK=CCMP]
+Oct  9 05:17:01 jeevams-hp-laptop-15-bs0 CRON[6986]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 gnome-shell[1616]: Object .Gjs_AppIndicatorIconActor__1 (0x5580a57c2920), has been already finalized. Impossible to set any property to it.
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: == Stack trace for context 0x5580a048a340 ==
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #0 0x7ffdfa0ef360 I   resource:///org/gnome/gjs/modules/_legacy.js:83 (0x7f88f45b5de0 @ 87)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #1 0x5580a0836c28 i   /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com/indicatorStatusIcon.js:93 (0x7f88d73bdef0 @ 58)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #2 0x7ffdfa0eff40 I   resource:///org/gnome/gjs/modules/_legacy.js:82 (0x7f88f45b5de0 @ 71)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #3 0x7ffdfa0f0000 b   self-hosted:916 (0x7f88f45f12b8 @ 367)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #4 0x7ffdfa0f00f0 b   resource:///org/gnome/gjs/modules/signals.js:128 (0x7f88f45d2230 @ 386)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #5 0x5580a0836ba0 i   /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com/appIndicator.js:190 (0x7f88d73acbc0 @ 22)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #6 0x7ffdfa0f0d40 I   resource:///org/gnome/gjs/modules/_legacy.js:82 (0x7f88f45b5de0 @ 71)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #7 0x5580a0836af8 i   /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com/statusNotifierWatcher.js:219 (0x7f88d73ac230 @ 225)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #8 0x7ffdfa0f1920 I   resource:///org/gnome/gjs/modules/_legacy.js:82 (0x7f88f45b5de0 @ 71)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #9 0x5580a0836a80 i   /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com/extension.js:61 (0x7f88d739e3c8 @ 37)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #10 0x5580a08369c0 i   resource:///org/gnome/shell/ui/extensionSystem.js:83 (0x7f88f44592b8 @ 441)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #11 0x5580a0836940 i   resource:///org/gnome/shell/ui/extensionSystem.js:354 (0x7f88f4459d58 @ 13)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #12 0x7ffdfa0f2620 b   self-hosted:251 (0x7f88f45c4ab0 @ 223)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #13 0x5580a08368c0 i   resource:///org/gnome/shell/ui/extensionSystem.js:353 (0x7f88f4459cd0 @ 64)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #14 0x5580a0836840 i   resource:///org/gnome/shell/ui/extensionSystem.js:371 (0x7f88f4459de0 @ 87)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #15 0x7ffdfa0f3b20 b   resource:///org/gnome/gjs/modules/signals.js:128 (0x7f88f45d2230 @ 386)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #16 0x7ffdfa0f4330 b   resource:///org/gnome/shell/ui/sessionMode.js:205 (0x7f88f4371120 @ 254)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #17 0x7ffdfa0f5720 b   resource:///org/gnome/gjs/modules/_legacy.js:82 (0x7f88f45b5de0 @ 71)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #18 0x5580a0836700 i   resource:///org/gnome/shell/ui/sessionMode.js:167 (0x7f88f436de68 @ 40)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #19 0x7ffdfa0f6a80 b   resource:///org/gnome/gjs/modules/_legacy.js:82 (0x7f88f45b5de0 @ 71)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 gnome-software[2339]: no app for changed ubuntu-appindicators@ubuntu.com
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #20 0x5580a0836658 i   resource:///org/gnome/shell/ui/screenShield.js:1282 (0x7f88f4352670 @ 188)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #21 0x7ffdfa0f7de0 b   resource:///org/gnome/gjs/modules/_legacy.js:82 (0x7f88f45b5de0 @ 71)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #22 0x5580a08365a8 i   resource:///org/gnome/shell/ui/screenShield.js:1331 (0x7f88f43526f8 @ 391)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #23 0x7ffdfa0f9140 b   resource:///org/gnome/gjs/modules/_legacy.js:82 (0x7f88f45b5de0 @ 71)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #24 0x5580a0836520 i   resource:///org/gnome/shell/ui/shellDBus.js:462 (0x7f88f435c808 @ 67)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #25 0x7ffdfa0fa4a0 b   resource:///org/gnome/gjs/modules/_legacy.js:82 (0x7f88f45b5de0 @ 71)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #26 0x5580a0836458 i   resource:///org/gnome/gjs/modules/overrides/Gio.js:295 (0x7f88f45e5450 @ 614)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: #27 0x5580a08363b0 i   resource:///org/gnome/gjs/modules/overrides/Gio.js:326 (0x7f88f45e5670 @ 34)
+Oct  9 05:23:16 jeevams-hp-laptop-15-bs0 gnome-software[2339]: no app for changed ubuntu-dock@ubuntu.com
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 kernel: [89475.352719] atkbd serio0: Unknown key pressed (translated set 2, code 0xd8 on isa0060/serio0).
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 kernel: [89475.352729] atkbd serio0: Use 'setkeycodes e058 <keycode>' to make it known.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 kernel: [89475.363147] atkbd serio0: Unknown key released (translated set 2, code 0xd8 on isa0060/serio0).
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 kernel: [89475.363154] atkbd serio0: Use 'setkeycodes e058 <keycode>' to make it known.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570578798.3833] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570578798.3838] manager: NetworkManager state is now ASLEEP
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570578798.3847] device (wlo1): state change: activated -> deactivating (reason 'sleeping', sys-iface-state: 'managed')
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 whoopsie[1149]: [05:23:18] offline
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to read EDID from 'eDP-1': No such file or directory
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Screen lock is locked down, not locking
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to read EDID from 'eDP-1': No such file or directory
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to read EDID from 'eDP-1': No such file or directory
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.14' (uid=0 pid=864 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570578798.4277] device (wlo1): state change: deactivating -> disconnected (reason 'sleeping', sys-iface-state: 'managed')
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Withdrawing address record for fe80::233c:b96:33c5:9d9d on wlo1.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Leaving mDNS multicast group on interface wlo1.IPv6 with address fe80::233c:b96:33c5:9d9d.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Interface wlo1.IPv6 no longer relevant for mDNS.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 systemd[1]: Starting Network Manager Script Dispatcher Service...
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 deja-dup-monito[2557]: Source ID 990 was not found when attempting to remove it
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 systemd[1]: Started Network Manager Script Dispatcher Service.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 nm-dispatcher: req:1 'connectivity-change': new request (1 scripts)
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 nm-dispatcher: req:1 'connectivity-change': start running ordered scripts...
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to set power save mode for output eDP-1: Permission denied
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to read EDID from 'eDP-1': No such file or directory
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gsd-color[1318]: failed to set screen _ICC_PROFILE: Failed to open file “/home/jeevams/.local/share/icc/edid-524619823cc84c371274e6aaf2201cd1.icc”: Permission denied
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570578798.4659] dhcp4 (wlo1): canceled DHCP transaction, DHCP client pid 3459
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570578798.4660] dhcp4 (wlo1): state changed bound -> done
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 kernel: [89475.547456] wlo1: deauthenticating from d8:84:66:5b:33:e8 by local choice (Reason: 3=DEAUTH_LEAVING)
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-DISCONNECTED bssid=d8:84:66:5b:33:e8 reason=3 locally_generated=1
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Withdrawing address record for 10.10.78.126 on wlo1.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 whoopsie[1149]: [05:23:18] Cannot reach: https://daisy.ubuntu.com
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Leaving mDNS multicast group on interface wlo1.IPv4 with address 10.10.78.126.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Interface wlo1.IPv4 no longer relevant for mDNS.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <warn>  [1570578798.4816] sup-iface[0x5556f325a240,wlo1]: connection disconnected (reason -3)
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 nm-dispatcher: req:2 'down' [wlo1]: new request (1 scripts)
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570578798.4817] device (wlo1): supplicant interface state: completed -> disconnected
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 nm-dispatcher: req:2 'down' [wlo1]: start running ordered scripts...
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570578798.4836] device (wlo1): state change: disconnected -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gsd-sharing[1733]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-user-share-webdav.service not loaded.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gsd-sharing[1733]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit rygel.service not loaded.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 gsd-sharing[1733]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-remote-desktop.service not loaded.
+Oct  9 05:23:18 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+Oct  9 05:23:20 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4242:4263:1009/052320.582097:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -130
+Oct  9 05:23:43 jeevams-hp-laptop-15-bs0 systemd[1]: Reached target Sleep.
+Oct  9 05:23:43 jeevams-hp-laptop-15-bs0 systemd[1]: Starting Suspend...
+Oct  9 05:23:43 jeevams-hp-laptop-15-bs0 kernel: [89500.551620] PM: suspend entry (deep)
+Oct  9 05:23:43 jeevams-hp-laptop-15-bs0 systemd-sleep[7091]: Suspending system...
+Oct  9 05:23:44 jeevams-hp-laptop-15-bs0 kernel: [89500.551621] PM: Syncing filesystems ... done.
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.356209] Freezing user space processes ... (elapsed 0.006 seconds) done.
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.362433] OOM killer disabled.
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.362436] Freezing remaining freezable tasks ... (elapsed 0.002 seconds) done.
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.364594] Suspending console(s) (use no_console_suspend to debug)
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.379257] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.573310] sd 0:0:0:0: [sda] Stopping disk
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.980092] [drm] probing gen 2 caps for device 8086:9d10 = 1724043/e
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.980095] [drm] PCIE gen 3 link speeds already enabled
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.990618] [drm] PCIE GART of 2048M enabled (table at 0x0000000000040000).
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.990733] radeon 0000:01:00.0: WB enabled
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.990735] radeon 0000:01:00.0: fence driver on ring 0 use gpu addr 0x0000000080000c00 and cpu addr 0x0000000093977660
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.990736] radeon 0000:01:00.0: fence driver on ring 1 use gpu addr 0x0000000080000c04 and cpu addr 0x000000007e8d4191
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.990737] radeon 0000:01:00.0: fence driver on ring 2 use gpu addr 0x0000000080000c08 and cpu addr 0x000000005f79d8a7
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.990737] radeon 0000:01:00.0: fence driver on ring 3 use gpu addr 0x0000000080000c0c and cpu addr 0x000000006e816ea9
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89501.990738] radeon 0000:01:00.0: fence driver on ring 4 use gpu addr 0x0000000080000c10 and cpu addr 0x00000000f2c9bccc
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186461] [drm] ring test on 0 succeeded in 1 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186465] [drm] ring test on 1 succeeded in 1 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186470] [drm] ring test on 2 succeeded in 1 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186478] [drm] ring test on 3 succeeded in 4 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186484] [drm] ring test on 4 succeeded in 4 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186516] [drm] ib test on ring 0 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186539] [drm] ib test on ring 1 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186559] [drm] ib test on ring 2 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186572] [drm] ib test on ring 3 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89502.186584] [drm] ib test on ring 4 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.011868] ACPI: EC: interrupt blocked
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.371700] ACPI: Preparing to enter system sleep state S3
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.374973] ACPI: EC: event blocked
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.374974] ACPI: EC: EC stopped
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.374975] PM: Saving platform NVS memory
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.375079] Disabling non-boot CPUs ...
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.391535] IRQ 129: no longer affine to CPU1
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.392554] smpboot: CPU 1 is now offline
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.415833] IRQ 126: no longer affine to CPU2
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.415842] IRQ 127: no longer affine to CPU2
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.416859] smpboot: CPU 2 is now offline
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.439376] IRQ 124: no longer affine to CPU3
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.439398] IRQ 132: no longer affine to CPU3
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.440409] smpboot: CPU 3 is now offline
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.443822] ACPI: Low-level resume complete
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.443944] ACPI: EC: EC started
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.443944] PM: Restoring platform NVS memory
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.446391] Enabling non-boot CPUs ...
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.446465] x86: Booting SMP configuration:
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.446465] smpboot: Booting Node 0 Processor 1 APIC 0x2
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.446811] microcode: sig=0x806e9, pf=0x80, revision=0x62
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.448527]  cache: parent cpu1 should not be sleeping
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.448725] CPU1 is up
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.448763] smpboot: Booting Node 0 Processor 2 APIC 0x1
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.449052] microcode: sig=0x806e9, pf=0x80, revision=0xb4
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.449151]  cache: parent cpu2 should not be sleeping
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.449538] CPU2 is up
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.449564] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.449925]  cache: parent cpu3 should not be sleeping
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.450109] CPU3 is up
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.453115] ACPI: Waking up from system sleep state S3
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.457559] ACPI: EC: interrupt unblocked
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.959378] ACPI: EC: event unblocked
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.959582] rtlwifi: rtlwifi: wireless switch is on
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.960929] sd 0:0:0:0: [sda] Starting disk
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.972092] [drm] probing gen 2 caps for device 8086:9d10 = 1724043/e
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.972095] [drm] PCIE gen 3 link speeds already enabled
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.982394] [drm] PCIE GART of 2048M enabled (table at 0x0000000000040000).
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.982509] radeon 0000:01:00.0: WB enabled
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.982511] radeon 0000:01:00.0: fence driver on ring 0 use gpu addr 0x0000000080000c00 and cpu addr 0x0000000093977660
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.982511] radeon 0000:01:00.0: fence driver on ring 1 use gpu addr 0x0000000080000c04 and cpu addr 0x000000007e8d4191
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.982512] radeon 0000:01:00.0: fence driver on ring 2 use gpu addr 0x0000000080000c08 and cpu addr 0x000000005f79d8a7
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.982513] radeon 0000:01:00.0: fence driver on ring 3 use gpu addr 0x0000000080000c0c and cpu addr 0x000000006e816ea9
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89503.982514] radeon 0000:01:00.0: fence driver on ring 4 use gpu addr 0x0000000080000c10 and cpu addr 0x00000000f2c9bccc
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.177910] [drm] ring test on 0 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.177925] [drm] ring test on 1 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.177940] [drm] ring test on 2 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.177960] [drm] ring test on 3 succeeded in 4 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.177967] [drm] ring test on 4 succeeded in 4 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.178017] [drm] ib test on ring 0 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.178075] [drm] ib test on ring 1 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.178120] [drm] ib test on ring 2 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.178169] [drm] ib test on ring 3 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.178193] [drm] ib test on ring 4 succeeded in 0 usecs
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.181542] r8169 0000:02:00.0 eno1: link down
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.195184] usb 1-4: reset full-speed USB device number 2 using xhci_hcd
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.274810] ata2: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.274849] ata3: SATA link down (SStatus 4 SControl 300)
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.283498] ata2.00: configured for UDMA/133
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.471132] usb 1-5: reset high-speed USB device number 3 using xhci_hcd
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.734205] psmouse serio1: synaptics: queried max coordinates: x [..5648], y [..4826]
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89504.764669] psmouse serio1: synaptics: queried min coordinates: x [1292..], y [1026..]
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.125763] acpi LNXPOWER:14: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.126007] acpi LNXPOWER:13: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.126239] acpi LNXPOWER:12: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.126451] Bluetooth: hci0: rtl: examining hci_ver=08 hci_rev=000d lmp_ver=08 lmp_subver=8723
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.126456] Bluetooth: hci0: rtl: loading rtl_bt/rtl8723d_config.bin
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.126464] Bluetooth: hci0: rtl: loading rtl_bt/rtl8723d_fw.bin
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.126469] acpi LNXPOWER:11: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.126767] acpi LNXPOWER:10: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.127009] acpi LNXPOWER:0f: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.127240] acpi LNXPOWER:0e: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.127471] acpi LNXPOWER:0d: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.127496] Bluetooth: hci0: rom_version status=0 version=2
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.127531] Bluetooth: hci0: cfg_sz 10, total size 28214
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.127703] acpi LNXPOWER:0c: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.127931] acpi LNXPOWER:0b: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128105] acpi LNXPOWER:0a: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128169] acpi LNXPOWER:09: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128234] acpi LNXPOWER:08: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128297] acpi LNXPOWER:07: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128360] acpi LNXPOWER:06: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128424] acpi LNXPOWER:05: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128489] acpi LNXPOWER:04: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128553] acpi LNXPOWER:03: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128617] acpi LNXPOWER:02: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128682] acpi LNXPOWER:01: Turning OFF
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128731] OOM killer enabled.
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.128732] Restarting tasks ... done.
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.235032] PM: suspend exit
+Oct  9 16:14:28 jeevams-hp-laptop-15-bs0 kernel: [89505.395674] [drm] RC6 on
+Oct  9 16:14:29 jeevams-hp-laptop-15-bs0 kernel: [89506.494864] ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 kernel: [89506.620788] ata1.00: configured for UDMA/133
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 bluetoothd[809]: Endpoint unregistered: sender=:1.81 path=/MediaEndpoint/A2DPSource
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 pulseaudio[1272]: W: [pulseaudio] sink-input.c: Failed to create sink input: sink is suspended.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4242:4263:1009/161428.595300:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -130
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd-sleep[7091]: /dev/sda:
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd-sleep[7091]:  setting Advanced Power Management level to 0x80 (128)
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd-sleep[7091]:  APM_level#011= 128
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: Starting Load/Save RF Kill Switch Status...
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 bluetoothd[809]: Endpoint unregistered: sender=:1.81 path=/MediaEndpoint/A2DPSink
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd-rfkill[7151]: Failed to open device rfkill13: No such device
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617868.5873] bluez5: NAP: removed interface D4:6A:6A:4F:08:B4
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: bluetooth.target: Unit not needed anymore. Stopping.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: Stopped target Bluetooth.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to read EDID from 'eDP-1': No such file or directory
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 bluetoothd[809]: Endpoint registered: sender=:1.81 path=/MediaEndpoint/A2DPSource
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: Started Load/Save RF Kill Switch Status.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 bluetoothd[809]: Endpoint registered: sender=:1.81 path=/MediaEndpoint/A2DPSink
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: Reached target Bluetooth.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to read EDID from 'eDP-1': No such file or directory
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to read EDID from 'eDP-1': No such file or directory
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 upowerd[1112]: unhandled action 'unbind' on /sys/devices/pci0000:00/0000:00:14.0/usb1/1-4/1-4:1.1
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 upowerd[1112]: unhandled action 'unbind' on /sys/devices/pci0000:00/0000:00:14.0/usb1/1-4/1-4:1.0
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 upowerd[1112]: unhandled action 'bind' on /sys/devices/pci0000:00/0000:00:14.0/usb1/1-4/1-4:1.1
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 upowerd[1112]: unhandled action 'bind' on /sys/devices/pci0000:00/0000:00:14.0/usb1/1-4/1-4:1.0
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd-sleep[7091]: System resumed.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617868.8765] bluez5: NAP: added interface D4:6A:6A:4F:08:B4
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 gsd-color[1318]: failed to set screen _ICC_PROFILE: Failed to open file “/home/jeevams/.local/share/icc/edid-524619823cc84c371274e6aaf2201cd1.icc”: Permission denied
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd-sleep[7091]: /dev/sda:
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd-sleep[7091]:  setting standby to 36 (3 minutes)
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: Started Suspend.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: sleep.target: Unit not needed anymore. Stopping.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: Stopped target Sleep.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: Reached target Suspend.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: suspend.target: Unit not needed anymore. Stopping.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 systemd[1]: Stopped target Suspend.
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617870.3037] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617870.3039] device (eno1): state change: unavailable -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 gnome-shell[1087]: Failed to set power save mode for output eDP-1: Permission denied
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617870.3309] device (eno1): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'managed')
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 kernel: [89506.887943] IPv6: ADDRCONF(NETDEV_UP): eno1: link is not ready
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617870.3771] device (wlo1): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'managed')
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 kernel: [89506.933174] r8169 0000:02:00.0 eno1: link down
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 kernel: [89506.933325] IPv6: ADDRCONF(NETDEV_UP): eno1: link is not ready
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 kernel: [89506.934227] IPv6: ADDRCONF(NETDEV_UP): wlo1: link is not ready
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617870.9167] manager: NetworkManager state is now DISCONNECTED
+Oct  9 16:14:30 jeevams-hp-laptop-15-bs0 kernel: [89507.472802] IPv6: ADDRCONF(NETDEV_UP): wlo1: link is not ready
+Oct  9 16:14:31 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: dbus: fill_dict_with_properties dbus_interface=fi.w1.wpa_supplicant1.Interface dbus_property=Stations getter failed
+Oct  9 16:14:31 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: dbus: wpa_dbus_get_object_properties: failed to get object properties: (none) none
+Oct  9 16:14:31 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: dbus: Failed to construct signal
+Oct  9 16:14:31 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: dbus: fill_dict_with_properties dbus_interface=fi.w1.wpa_supplicant1.Interface dbus_property=Stations getter failed
+Oct  9 16:14:31 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617871.3589] device (wlo1): supplicant interface state: starting -> ready
+Oct  9 16:14:31 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617871.3591] device (wlo1): state change: unavailable -> disconnected (reason 'supplicant-available', sys-iface-state: 'managed')
+Oct  9 16:14:31 jeevams-hp-laptop-15-bs0 kernel: [89507.916708] IPv6: ADDRCONF(NETDEV_UP): wlo1: link is not ready
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8253] policy: auto-activating connection 'Anna-WiFi'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8269] device (wlo1): Activation: starting connection 'Anna-WiFi' (eae3e1aa-38b6-4c25-9ab9-4f5593fca06b)
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8274] device (wlo1): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8278] manager: NetworkManager state is now CONNECTING
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8299] device (wlo1): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8311] device (wlo1): Activation: (wifi) access point 'Anna-WiFi' has security, but secrets are required.
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8315] device (wlo1): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 ModemManager[850]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.4/0000:02:00.0': not supported by any plugin
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 ModemManager[850]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.5/0000:03:00.0': not supported by any plugin
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8387] device (wlo1): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8390] device (wlo1): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8393] device (wlo1): Activation: (wifi) connection 'Anna-WiFi' has security, and secrets exist.  No new secrets needed.
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8393] Config: added 'ssid' value 'Anna-WiFi'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8393] Config: added 'scan_ssid' value '1'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8393] Config: added 'bgscan' value 'simple:30:-65:300'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8393] Config: added 'key_mgmt' value 'WPA-EAP'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8394] Config: added 'password' value '<hidden>'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8394] Config: added 'eap' value 'PEAP'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8394] Config: added 'fragment_size' value '1266'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8394] Config: added 'phase2' value 'auth=MSCHAPV2'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8394] Config: added 'identity' value '2017115533'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8394] Config: added 'proactive_key_caching' value '1'
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: SME: Trying to authenticate with d8:84:66:5b:33:e8 (SSID='Anna-WiFi' freq=2412 MHz)
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 kernel: [89509.399699] wlo1: authenticate with d8:84:66:5b:33:e8
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 kernel: [89509.399704] wlo1: No basic rates, using min rate instead
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8533] device (wlo1): supplicant interface state: ready -> authenticating
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 kernel: [89509.409743] wlo1: send auth to d8:84:66:5b:33:e8 (try 1/3)
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: Trying to associate with d8:84:66:5b:33:e8 (SSID='Anna-WiFi' freq=2412 MHz)
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 kernel: [89509.412106] wlo1: authenticated
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 kernel: [89509.414785] wlo1: associate with d8:84:66:5b:33:e8 (try 1/3)
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617872.8614] device (wlo1): supplicant interface state: authenticating -> associating
+Oct  9 16:14:32 jeevams-hp-laptop-15-bs0 kernel: [89509.419654] wlo1: RX AssocResp from d8:84:66:5b:33:e8 (capab=0x411 status=0 aid=4)
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 gnome-software[2339]: no app for changed ubuntu-dock@ubuntu.com
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 gnome-software[2339]: no app for changed ubuntu-appindicators@ubuntu.com
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 gvfsd-metadata[1939]: g_udev_device_has_property: assertion 'G_UDEV_IS_DEVICE (device)' failed
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 gvfsd-metadata[1939]: g_udev_device_has_property: assertion 'G_UDEV_IS_DEVICE (device)' failed
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 gnome-shell[1616]: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem :1.72/org/ayatana/NotificationItem/software_update_available
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: Associated with d8:84:66:5b:33:e8
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-SUBNET-STATUS-UPDATE status=0
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-REGDOM-CHANGE init=COUNTRY_IE type=COUNTRY alpha2=IN
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 kernel: [89509.695916] wlo1: associated
+Oct  9 16:14:33 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617873.1448] device (wlo1): supplicant interface state: associating -> associated
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-EAP-STARTED EAP authentication started
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=26 -> NAK
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=25
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-EAP-METHOD EAP vendor 0 method 25 (PEAP) selected
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-EAP-PEER-CERT depth=0 subject='/DC=edu/DC=annauniv/CN=annauniv-AD1-CA' hash=94d2f9c147a111359e0d0c47f286847941447bd981bfb0237ef055d45f7bf20a
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-EAP-PEER-CERT depth=0 subject='/DC=edu/DC=annauniv/CN=annauniv-AD1-CA' hash=94d2f9c147a111359e0d0c47f286847941447bd981bfb0237ef055d45f7bf20a
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: EAP-MSCHAPV2: Authentication succeeded
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: EAP-TLV: TLV Result - Success - EAP-TLV/Phase2 Completed
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-EAP-SUCCESS EAP authentication completed successfully
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: WPA: Key negotiation completed with d8:84:66:5b:33:e8 [PTK=CCMP GTK=CCMP]
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: CTRL-EVENT-CONNECTED - Connection to d8:84:66:5b:33:e8 completed [id=0 id_str=]
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 kernel: [89512.441059] IPv6: ADDRCONF(NETDEV_CHANGE): wlo1: link becomes ready
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: bgscan simple: Failed to enable signal strength monitoring
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617875.8931] device (wlo1): supplicant interface state: associated -> completed
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617875.8932] device (wlo1): Activation: (wifi) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'Anna-WiFi'.
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617875.9016] device (wlo1): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617875.9031] dhcp4 (wlo1): activation: beginning transaction (timeout in 45 seconds)
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617875.9142] dhcp4 (wlo1): dhclient started with pid 7239
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 dhclient[7239]: DHCPREQUEST of 10.10.78.126 on wlo1 to 255.255.255.255 port 67 (xid=0x2f9b9339)
+Oct  9 16:14:35 jeevams-hp-laptop-15-bs0 dhclient[7239]: DHCPACK of 10.10.78.126 from 10.10.64.1
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0030] dhcp4 (wlo1):   address 10.10.78.126
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0032] dhcp4 (wlo1):   plen 20 (255.255.240.0)
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0033] dhcp4 (wlo1):   gateway 10.10.64.1
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0035] dhcp4 (wlo1):   lease time 604800
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0037] dhcp4 (wlo1):   nameserver '10.1.1.12'
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0039] dhcp4 (wlo1):   nameserver '10.1.1.6'
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0040] dhcp4 (wlo1):   domain name 'annauniv.edu'
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0042] dhcp4 (wlo1): state changed unknown -> bound
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Joining mDNS multicast group on interface wlo1.IPv4 with address 10.10.78.126.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: New relevant interface wlo1.IPv4 for mDNS.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Registering new address record for 10.10.78.126 on wlo1.IPv4.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 whoopsie[1149]: [16:14:36] Cannot reach: https://daisy.ubuntu.com
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0316] device (wlo1): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0461] device (wlo1): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0484] device (wlo1): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.0492] manager: NetworkManager state is now CONNECTED_LOCAL
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 dhclient[7239]: bound to 10.10.78.126 -- renewal in 226849 seconds.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.1328] manager: NetworkManager state is now CONNECTED_SITE
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.1336] policy: set 'Anna-WiFi' (wlo1) as default for IPv4 routing and DNS
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617876.1354] device (wlo1): Activation: successful, device activated.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.14' (uid=0 pid=864 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 systemd[1]: Starting Network Manager Script Dispatcher Service...
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 gsd-sharing[1733]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-user-share-webdav.service not loaded.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 gsd-sharing[1733]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit rygel.service not loaded.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 gsd-sharing[1733]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-remote-desktop.service not loaded.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 nm-dispatcher: req:1 'up' [wlo1]: new request (1 scripts)
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 systemd[1]: Started Network Manager Script Dispatcher Service.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 nm-dispatcher: req:1 'up' [wlo1]: start running ordered scripts...
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 systemd[1]: Reloading OpenBSD Secure Shell server.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 systemd[1]: Reloaded OpenBSD Secure Shell server.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 systemd[1]: Reloading OpenBSD Secure Shell server.
+Oct  9 16:14:36 jeevams-hp-laptop-15-bs0 systemd[1]: Reloaded OpenBSD Secure Shell server.
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Joining mDNS multicast group on interface wlo1.IPv6 with address fe80::233c:b96:33c5:9d9d.
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: New relevant interface wlo1.IPv6 for mDNS.
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 avahi-daemon[822]: Registering new address record for fe80::233c:b96:33c5:9d9d on wlo1.*.
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 NetworkManager[864]: <info>  [1570617877.6178] manager: NetworkManager state is now CONNECTED_GLOBAL
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 nm-dispatcher: req:2 'connectivity-change': new request (1 scripts)
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 nm-dispatcher: req:2 'connectivity-change': start running ordered scripts...
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 whoopsie[1149]: [16:14:37] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/14
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 whoopsie[1149]: [16:14:37] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/14
+Oct  9 16:14:37 jeevams-hp-laptop-15-bs0 whoopsie[1149]: [16:14:37] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/14
+Oct  9 16:14:38 jeevams-hp-laptop-15-bs0 whoopsie[1149]: [16:14:38] online
+Oct  9 16:14:39 jeevams-hp-laptop-15-bs0 dbus-daemon[1492]: [session uid=1000 pid=1492] Activating service name='org.gnome.Nautilus' requested by ':1.21' (uid=1000 pid=1616 comm="/usr/bin/gnome-shell " label="unconfined")
+Oct  9 16:14:39 jeevams-hp-laptop-15-bs0 dbus-daemon[1492]: [session uid=1000 pid=1492] Successfully activated service 'org.gnome.Nautilus'
+Oct  9 16:14:40 jeevams-hp-laptop-15-bs0 systemd-resolved[777]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct  9 16:14:40 jeevams-hp-laptop-15-bs0 systemd-resolved[777]: message repeated 2 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct  9 16:14:41 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.409' (uid=1000 pid=7324 comm="/usr/bin/nautilus --gapplication-service " label="unconfined")
+Oct  9 16:14:41 jeevams-hp-laptop-15-bs0 systemd[1]: Starting Hostname Service...
+Oct  9 16:14:41 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Oct  9 16:14:41 jeevams-hp-laptop-15-bs0 systemd[1]: Started Hostname Service.
+Oct  9 16:14:42 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:7043:1009/161442.040459:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for r2---sn-4g5e6ne6.googlevideo.com failed err=-8172
+Oct  9 16:14:42 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161442.040875:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -202
+Oct  9 16:14:42 jeevams-hp-laptop-15-bs0 nautilus[7324]: Called "net usershare info" but it failed: Failed to execute child process “net” (No such file or directory)
+Oct  9 16:14:45 jeevams-hp-laptop-15-bs0 PackageKit: get-updates transaction /1938_ebdaeccc from uid 1000 finished with success after 645ms
+Oct  9 16:14:47 jeevams-hp-laptop-15-bs0 gvfsd-metadata[1939]: g_udev_device_has_property: assertion 'G_UDEV_IS_DEVICE (device)' failed
+Oct  9 16:14:47 jeevams-hp-laptop-15-bs0 gvfsd-metadata[1939]: message repeated 7 times: [ g_udev_device_has_property: assertion 'G_UDEV_IS_DEVICE (device)' failed]
+Oct  9 16:15:10 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161510.268216:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:10 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161510.270392:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161516.026584:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161516.027088:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161516.072788:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161516.073176:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161516.189623:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161516.190414:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:17 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161517.192760:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:17 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161517.193079:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:17 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161517.206653:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:17 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [1:1:1009/161517.207111:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct  9 16:15:19 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:6913:1009/161519.070225:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for play.google.com failed err=-8102
+Oct  9 16:15:19 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161519.072040:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:19 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161519.347048:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:23 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161523.663878:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:23 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161523.749866:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:24 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161524.929412:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:30 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161530.720795:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:31 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161531.035651:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:31 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161531.813083:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:37 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161537.958076:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:38 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161538.052576:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:39 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161539.321816:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:39 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161539.690846:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:40 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161540.307323:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:40 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161540.346863:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:43 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161543.110117:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:43 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161543.327541:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:49 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161549.069391:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:49 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161549.145454:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:49 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161549.420647:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:50 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161550.281990:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:51 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161551.380996:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:15:56 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161556.626140:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:00 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: Gtk-Message: 16:16:00.976: GtkDialog mapped without a transient parent. This is discouraged.
+Oct  9 16:16:00 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.411' (uid=1000 pid=4242 comm="/opt/google/chrome/chrome     " label="unconfined")
+Oct  9 16:16:00 jeevams-hp-laptop-15-bs0 systemd[1]: Starting Hostname Service...
+Oct  9 16:16:01 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Oct  9 16:16:01 jeevams-hp-laptop-15-bs0 systemd[1]: Started Hostname Service.
+Oct  9 16:16:02 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161602.006882:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:10 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161610.474027:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161616.194738:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:18 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161618.900583:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:22 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161622.039556:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:23 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161623.867778:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:26 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161626.291441:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:27 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161627.721814:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:30 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161630.749259:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:40 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161640.241588:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:40 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161640.764869:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:16:46 jeevams-hp-laptop-15-bs0 wpa_supplicant[849]: wlo1: WPA: Group rekeying completed with d8:84:66:5b:33:e8 [GTK=CCMP]
+Oct  9 16:16:49 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4242:4263:1009/161649.538554:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -118
+Oct  9 16:16:50 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161650.386065:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:17:01 jeevams-hp-laptop-15-bs0 CRON[7546]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Oct  9 16:17:05 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: Gtk-Message: 16:17:05.170: GtkDialog mapped without a transient parent. This is discouraged.
+Oct  9 16:17:05 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.413' (uid=1000 pid=4242 comm="/opt/google/chrome/chrome     " label="unconfined")
+Oct  9 16:17:05 jeevams-hp-laptop-15-bs0 systemd[1]: Starting Hostname Service...
+Oct  9 16:17:05 jeevams-hp-laptop-15-bs0 dbus-daemon[824]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Oct  9 16:17:05 jeevams-hp-laptop-15-bs0 systemd[1]: Started Hostname Service.
+Oct  9 16:17:43 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161743.418374:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:17:46 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161746.619087:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:17:47 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161747.394865:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:17:50 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161750.136267:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:17:54 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161754.563804:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:17:57 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161757.833365:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:18:07 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161807.484049:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207
+Oct  9 16:18:16 jeevams-hp-laptop-15-bs0 org.gnome.Shell.desktop[1616]: [4283:4298:1009/161816.048696:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -207

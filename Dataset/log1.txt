@@ -1,0 +1,684 @@
+Aug 30 17:59:45 audist-Veriton-M200-H81 rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="838" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Aug 30 17:59:51 audist-Veriton-M200-H81 anacron[769]: Job `cron.daily' terminated
+Aug 30 17:59:51 audist-Veriton-M200-H81 anacron[769]: Normal exit (1 job run)
+Aug 30 18:03:03 audist-Veriton-M200-H81 gnome-software[2631]: no app for changed ubuntu-dock@ubuntu.com
+Aug 30 18:03:03 audist-Veriton-M200-H81 gnome-software[2631]: no app for changed ubuntu-appindicators@ubuntu.com
+Aug 30 18:03:22 audist-Veriton-M200-H81 ubuntu-report[1388]: level=error msg="data were not delivered successfully to metrics server, retrying in 480s"
+Aug 30 18:04:01 audist-Veriton-M200-H81 systemd[1]: Started Run anacron jobs.
+Aug 30 18:04:01 audist-Veriton-M200-H81 anacron[7315]: Anacron 2.3 started on 2019-08-30
+Aug 30 18:04:01 audist-Veriton-M200-H81 anacron[7315]: Normal exit (0 jobs run)
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (**) Option "fd" "21"
+Aug 30 18:05:15 audist-Veriton-M200-H81 kernel: [  648.988963] rfkill: input handler enabled
+Aug 30 18:05:15 audist-Veriton-M200-H81 gsd-color[1085]: failed to set screen _ICC_PROFILE: Failed to open file “/home/user1/.local/share/icc/edid-cc1bf881beed38457ece6e0765c1b80a.icc”: Permission denied
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) event1  - Power Button: device removed
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (**) Option "fd" "24"
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) event2  - Video Bus: device removed
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (**) Option "fd" "25"
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) event0  - Power Button: device removed
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (**) Option "fd" "26"
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) event4  - NOVATEK USB Keyboard: device removed
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (**) Option "fd" "27"
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) event5  - NOVATEK USB Keyboard System Control: device removed
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (**) Option "fd" "28"
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) event6  - NOVATEK USB Keyboard Consumer Control: device removed
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (**) Option "fd" "29"
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) event3  - PixArt USB Optical Mouse: device removed
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) AIGLX: Suspending AIGLX clients for VT switch
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) systemd-logind: got pause for 13:64
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) systemd-logind: got pause for 13:66
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) systemd-logind: got pause for 13:69
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) systemd-logind: got pause for 13:70
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) systemd-logind: got pause for 13:67
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) systemd-logind: got pause for 226:0
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) systemd-logind: got pause for 13:68
+Aug 30 18:05:15 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[1400]: (II) systemd-logind: got pause for 13:65
+Aug 30 18:05:15 audist-Veriton-M200-H81 gsd-color[1085]: failed to set screen _ICC_PROFILE: Failed to open file “/home/user1/.local/share/icc/edid-cc1bf881beed38457ece6e0765c1b80a.icc”: Permission denied
+Aug 30 18:08:42 audist-Veriton-M200-H81 systemd[1]: Starting Daily apt download activities...
+Aug 30 18:08:43 audist-Veriton-M200-H81 systemd[1]: Started Daily apt download activities.
+Aug 30 18:09:46 audist-Veriton-M200-H81 systemd[1]: Starting Cleanup of Temporary Directories...
+Aug 30 18:09:46 audist-Veriton-M200-H81 systemd[1]: Started Cleanup of Temporary Directories.
+Aug 30 18:11:32 audist-Veriton-M200-H81 ubuntu-report[1388]: level=error msg="data were not delivered successfully to metrics server, retrying in 960s"
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[1]: Created slice User Slice of audist.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[1]: Starting User Manager for UID 1000...
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[1]: Started Session 4 of user audist.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Listening on GnuPG cryptographic agent and passphrase cache.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Listening on GnuPG network certificate management daemon.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Starting D-Bus User Message Bus Socket.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Started Pending report trigger for Ubuntu Report.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Reached target Paths.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Reached target Timers.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Listening on D-Bus User Message Bus Socket.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Reached target Sockets.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Reached target Basic System.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[1]: Started User Manager for UID 1000.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Started Ubuntu report sends pending metrics data.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Reached target Default.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Startup finished in 95ms.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: _XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: _XSERVTransMakeAllCOTSServerListeners: server already running
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (--) Log file renamed from "/home/audist/.local/share/xorg/Xorg.pid-7456.log" to "/home/audist/.local/share/xorg/Xorg.1.log"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: X.Org X Server 1.20.1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: X Protocol Version 11, Revision 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: Build Operating System: Linux 4.4.0-140-generic x86_64 Ubuntu
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: Current Operating System: Linux audist-Veriton-M200-H81 5.0.0-25-generic #26~18.04.1-Ubuntu SMP Thu Aug 1 13:51:02 UTC 2019 x86_64
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-5.0.0-25-generic root=UUID=62b7ae89-71d3-4c39-8994-d0202828fb9f ro quiet splash vt.handoff=1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: Build Date: 27 November 2018  05:27:12PM
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: xorg-server-hwe-18.04 2:1.20.1-3ubuntu2.1~18.04.1 (For technical support please see http://www.ubuntu.com/support)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: Current version of pixman: 0.34.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Before reporting problems, check http://wiki.x.org
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011to make sure that you have the latest version.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: Markers: (--) probed, (**) from config file, (==) default setting,
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011(++) from command line, (!!) notice, (II) informational,
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Log file: "/home/audist/.local/share/xorg/Xorg.1.log", Time: Fri Aug 30 18:12:26 2019
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) No Layout section.  Using the first Screen section.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) No screen section available. Using defaults.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) |-->Screen "Default Screen Section" (0)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) |   |-->Monitor "<default monitor>"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) No monitor specified for screen "Default Screen Section".
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Using a default monitor configuration.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Automatically adding devices
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Automatically enabling devices
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Automatically adding GPU devices
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Automatically binding GPU devices
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Max clients allowed: 256, resource mask: 0x1fffff
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (WW) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Entry deleted from font path.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (WW) The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Entry deleted from font path.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (WW) The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Entry deleted from font path.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (WW) The directory "/usr/share/fonts/X11/100dpi" does not exist.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Entry deleted from font path.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (WW) The directory "/usr/share/fonts/X11/75dpi" does not exist.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Entry deleted from font path.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) FontPath set to:
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011/usr/share/fonts/X11/misc,
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011/usr/share/fonts/X11/Type1,
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011built-ins
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) ModulePath set to "/usr/lib/xorg/modules"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) The server relies on udev to provide the list of input devices.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011If no devices become available, reconfigure udev or disable AutoAddDevices.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loader magic: 0x5623af4fa020
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module ABI versions:
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011X.Org ANSI C Emulation: 0.4
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011X.Org Video Driver: 24.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011X.Org XInput driver : 24.1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011X.Org Server Extension : 10.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (++) using VT number 3
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: took control of session /org/freedesktop/login1/session/_34
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) xfree86: Adding drm device (/dev/dri/card0)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 13 paused 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (--) PCI:*(0@0:2:0) 8086:0412:1b0a:0164 rev 6, Mem @ 0xf7800000/4194304, 0xe0000000/268435456, I/O @ 0x0000f000/64, BIOS @ 0x????????/131072
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) LoadModule: "glx"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module glx: vendor="X.Org Foundation"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011compiled for 1.20.1, module version = 1.0.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011ABI class: X.Org Server Extension, version 10.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Matched modesetting as autoconfigured driver 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Matched fbdev as autoconfigured driver 1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Matched vesa as autoconfigured driver 2
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) Assigned the driver to the xf86ConfigLayout
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) LoadModule: "modesetting"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module modesetting: vendor="X.Org Foundation"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011compiled for 1.20.1, module version = 1.20.1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Module class: X.Org Video Driver
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011ABI class: X.Org Video Driver, version 24.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) LoadModule: "fbdev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module fbdev: vendor="X.Org Foundation"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011compiled for 1.20.1, module version = 0.5.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Module class: X.Org Video Driver
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011ABI class: X.Org Video Driver, version 24.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) LoadModule: "vesa"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module vesa: vendor="X.Org Foundation"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011compiled for 1.20.1, module version = 2.4.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Module class: X.Org Video Driver
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011ABI class: X.Org Video Driver, version 24.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) FBDEV: driver for framebuffer: fbdev
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) VESA: driver for VESA chipsets: vesa
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: xf86EnableIOPorts: failed to set IOPL for I/O (Operation not permitted)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): using drv /dev/dri/card0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (WW) Falling back to old probe method for fbdev
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading sub module "fbdevhw"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) LoadModule: "fbdevhw"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading /usr/lib/xorg/modules/libfbdevhw.so
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module fbdevhw: vendor="X.Org Foundation"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011compiled for 1.20.1, module version = 0.0.2
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011ABI class: X.Org Video Driver, version 24.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (EE) open /dev/fb0: Permission denied
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Creating default Display subsection in Screen section
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011"Default Screen Section" for depth/fbbpp 24/32
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) modeset(0): Depth 24, (==) framebuffer bpp 32
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) modeset(0): RGB weight 888
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) modeset(0): Default visual is TrueColor
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading sub module "glamoregl"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) LoadModule: "glamoregl"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading /usr/lib/xorg/modules/libglamoregl.so
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module glamoregl: vendor="X.Org Foundation"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011compiled for 1.20.1, module version = 1.0.1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011ABI class: X.Org ANSI C Emulation, version 0.4
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): glamor X acceleration enabled on Mesa DRI Intel(R) Haswell Desktop
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): glamor initialized
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Output VGA-1 has no monitor section
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Output HDMI-1 has no monitor section
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): EDID for output VGA-1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Manufacturer: ACR  Model: 334  Serial#: 1076921398
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Year: 2014  Week: 3
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): EDID Version: 1.3
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Analog Display Input,  Input Voltage Level: 0.700/0.700 V
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Sync:  Separate
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Max Image Size [cm]: horiz.: 43  vert.: 24
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Gamma: 2.20
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): DPMS capabilities: StandBy Suspend; RGB/Color Display
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): First detailed timing is preferred mode
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): redX: 0.641 redY: 0.338   greenX: 0.315 greenY: 0.629
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): blueX: 0.159 blueY: 0.059   whiteX: 0.313 whiteY: 0.329
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Supported established timings:
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 720x400@70Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 640x480@60Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 640x480@67Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 640x480@72Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 640x480@75Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 800x600@56Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 800x600@60Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 800x600@72Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 800x600@75Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 832x624@75Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 1024x768@60Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 1024x768@70Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 1024x768@75Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 1280x1024@75Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): 1152x864@75Hz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Manufacturer's mask: 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Supported standard timings:
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #0: hsize: 1152  vsize 864  refresh: 75  vid: 20337
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #1: hsize: 1280  vsize 720  refresh: 60  vid: 49281
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #2: hsize: 1280  vsize 800  refresh: 60  vid: 129
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Supported detailed timing:
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): clock: 108.0 MHz   Image Size:  432 x 240 mm
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): h_active: 1600  h_sync: 1624  h_sync_end 1704 h_blank_end 1800 h_border: 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): v_active: 900  v_sync: 901  v_sync_end 904 v_blanking: 1000 v_border: 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Ranges: V min: 56 V max: 76 Hz, H min: 31 H max: 83 kHz, PixClock max 175 MHz
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Monitor name: V206HQL
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Serial No: LY6SS0098500
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): EDID (in hex):
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #01100ffffffffffff000472340336843040
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #01103180103682b1878ca2cc5a45650a128
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #0110f5054bfef80714f81c0810001010101
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #011010101010101302a40c8608464301850
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #0111300b0f01000001e000000fd00384c1f
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #0115311000a202020202020000000fc0056
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #01132303648514c0a2020202020000000ff
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): #011004c59365353303039383530300a0058
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Printing probed modes for output VGA-1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1600x900"x60.0  108.00  1600 1624 1704 1800  900 901 904 1000 +hsync +vsync (60.0 kHz eP)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x1024"x75.0  135.00  1280 1296 1440 1688  1024 1025 1028 1066 +hsync +vsync (80.0 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x800"x59.8   83.50  1280 1352 1480 1680  800 803 809 831 -hsync +vsync (49.7 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1152x864"x75.0  108.00  1152 1216 1344 1600  864 865 868 900 +hsync +vsync (67.5 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x720"x60.0   74.25  1280 1390 1430 1650  720 725 730 750 +hsync +vsync (45.0 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x75.0   78.75  1024 1040 1136 1312  768 769 772 800 +hsync +vsync (60.0 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x70.1   75.00  1024 1048 1184 1328  768 771 777 806 -hsync -vsync (56.5 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "832x624"x74.6   57.28  832 864 928 1152  624 625 628 667 -hsync -vsync (49.7 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x72.2   50.00  800 856 976 1040  600 637 643 666 +hsync +vsync (48.1 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x75.0   49.50  800 816 896 1056  600 601 604 625 +hsync +vsync (46.9 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x56.2   36.00  800 824 896 1024  600 601 603 625 +hsync +vsync (35.2 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x75.0   31.50  640 656 720 840  480 481 484 500 -hsync -vsync (37.5 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x72.8   31.50  640 664 704 832  480 489 492 520 -hsync -vsync (37.9 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x66.7   30.24  640 704 768 864  480 483 486 525 -hsync -vsync (35.0 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 490 492 525 -hsync -vsync (31.5 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "720x400"x70.1   28.32  720 738 846 900  400 412 414 449 -hsync +vsync (31.5 kHz e)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): EDID for output HDMI-1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Output VGA-1 connected
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Output HDMI-1 disconnected
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Using exact sizes for initial modes
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Output VGA-1 using initial mode 1600x900 +0+0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) modeset(0): Using gamma correction (1.0, 1.0, 1.0)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) modeset(0): DPI set to (96, 96)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading sub module "fb"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) LoadModule: "fb"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading /usr/lib/xorg/modules/libfb.so
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module fb: vendor="X.Org Foundation"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011compiled for 1.20.1, module version = 1.0.0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011ABI class: X.Org ANSI C Emulation, version 0.4
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) UnloadModule: "fbdev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Unloading fbdev
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) UnloadSubModule: "fbdevhw"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Unloading fbdevhw
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) UnloadModule: "vesa"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Unloading vesa
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) modeset(0): Backing store enabled
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) modeset(0): Silken mouse enabled
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Initializing kms color map for depth 24, 8 bpc.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (==) modeset(0): DPMS enabled
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): [DRI2] Setup complete
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): [DRI2]   DRI driver: i965
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): [DRI2]   VDPAU driver: i965
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension Generic Event Extension
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension SHAPE
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension MIT-SHM
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XInputExtension
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XTEST
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension BIG-REQUESTS
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension SYNC
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XKEYBOARD
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XC-MISC
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension SECURITY
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XFIXES
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension RENDER
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension RANDR
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension COMPOSITE
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension DAMAGE
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension MIT-SCREEN-SAVER
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension DOUBLE-BUFFER
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension RECORD
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension DPMS
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension Present
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension DRI3
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension X-Resource
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XVideo
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XVideo-MotionCompensation
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension SELinux
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) SELinux: Disabled on system
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension GLX
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) AIGLX: Loaded and initialized i965
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) GLX: Initialized DRI2 GL provider for screen 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XFree86-VidModeExtension
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XFree86-DGA
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension XFree86-DRI
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Initializing extension DRI2
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Damage tracking initialized
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Setting screen physical size to 423 x 238
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device Power Button (/dev/input/event1)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Power Button: Applying InputClass "libinput keyboard catchall"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) LoadModule: "libinput"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Module libinput: vendor="X.Org Foundation"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011compiled for 1.20.1, module version = 0.28.1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011Module class: X.Org XInput Driver
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: #011ABI class: X.Org XInput driver, version 24.1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Using input driver 'libinput' for 'Power Button'
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: got fd for /dev/input/event1 13:65 fd 22 paused 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Power Button: always reports core events
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "Device" "/dev/input/event1"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "_source" "server/udev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event1  - Power Button: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event1  - Power Button: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event1  - Power Button: device removed
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input1/event1"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_model" "pc105"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_layout" "us"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event1  - Power Button: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event1  - Power Button: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device Video Bus (/dev/input/event2)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Using input driver 'libinput' for 'Video Bus'
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: got fd for /dev/input/event2 13:66 fd 25 paused 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Video Bus: always reports core events
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "Device" "/dev/input/event2"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "_source" "server/udev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event2  - Video Bus: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event2  - Video Bus: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event2  - Video Bus: device removed
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:00/input/input2/event2"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 7)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_model" "pc105"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_layout" "us"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event2  - Video Bus: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event2  - Video Bus: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device Power Button (/dev/input/event0)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Power Button: Applying InputClass "libinput keyboard catchall"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Using input driver 'libinput' for 'Power Button'
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: got fd for /dev/input/event0 13:64 fd 26 paused 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Power Button: always reports core events
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "Device" "/dev/input/event0"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "_source" "server/udev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event0  - Power Button: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event0  - Power Button: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event0  - Power Button: device removed
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input0/event0"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 8)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_model" "pc105"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_layout" "us"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event0  - Power Button: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event0  - Power Button: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device HDA Intel HDMI HDMI/DP,pcm=3 (/dev/input/event7)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device HDA Intel HDMI HDMI/DP,pcm=7 (/dev/input/event8)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device HDA Intel HDMI HDMI/DP,pcm=8 (/dev/input/event9)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device NOVATEK USB Keyboard (/dev/input/event4)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) NOVATEK USB Keyboard: Applying InputClass "libinput keyboard catchall"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Using input driver 'libinput' for 'NOVATEK USB Keyboard'
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 27 paused 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) NOVATEK USB Keyboard: always reports core events
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "Device" "/dev/input/event4"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "_source" "server/udev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event4  - NOVATEK USB Keyboard: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event4  - NOVATEK USB Keyboard: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event4  - NOVATEK USB Keyboard: device removed
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb3/3-10/3-10:1.0/0003:0461:0010.0002/input/input4/event4"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) XINPUT: Adding extended input device "NOVATEK USB Keyboard" (type: KEYBOARD, id 9)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_model" "pc105"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_layout" "us"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event4  - NOVATEK USB Keyboard: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event4  - NOVATEK USB Keyboard: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device NOVATEK USB Keyboard System Control (/dev/input/event5)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) NOVATEK USB Keyboard System Control: Applying InputClass "libinput keyboard catchall"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Using input driver 'libinput' for 'NOVATEK USB Keyboard System Control'
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 28 paused 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) NOVATEK USB Keyboard System Control: always reports core events
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "Device" "/dev/input/event5"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "_source" "server/udev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event5  - NOVATEK USB Keyboard System Control: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event5  - NOVATEK USB Keyboard System Control: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event5  - NOVATEK USB Keyboard System Control: device removed
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb3/3-10/3-10:1.1/0003:0461:0010.0003/input/input5/event5"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) XINPUT: Adding extended input device "NOVATEK USB Keyboard System Control" (type: KEYBOARD, id 10)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_model" "pc105"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_layout" "us"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event5  - NOVATEK USB Keyboard System Control: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event5  - NOVATEK USB Keyboard System Control: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device NOVATEK USB Keyboard Consumer Control (/dev/input/event6)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) NOVATEK USB Keyboard Consumer Control: Applying InputClass "libinput keyboard catchall"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Using input driver 'libinput' for 'NOVATEK USB Keyboard Consumer Control'
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: got fd for /dev/input/event6 13:70 fd 29 paused 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) NOVATEK USB Keyboard Consumer Control: always reports core events
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "Device" "/dev/input/event6"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "_source" "server/udev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event6  - NOVATEK USB Keyboard Consumer Control: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event6  - NOVATEK USB Keyboard Consumer Control: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event6  - NOVATEK USB Keyboard Consumer Control: device removed
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb3/3-10/3-10:1.1/0003:0461:0010.0003/input/input6/event6"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) XINPUT: Adding extended input device "NOVATEK USB Keyboard Consumer Control" (type: KEYBOARD, id 11)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_model" "pc105"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "xkb_layout" "us"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event6  - NOVATEK USB Keyboard Consumer Control: is tagged by udev as: Keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event6  - NOVATEK USB Keyboard Consumer Control: device is a keyboard
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device PixArt USB Optical Mouse (/dev/input/event3)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) PixArt USB Optical Mouse: Applying InputClass "libinput pointer catchall"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) Using input driver 'libinput' for 'PixArt USB Optical Mouse'
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 30 paused 0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) PixArt USB Optical Mouse: always reports core events
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "Device" "/dev/input/event3"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "_source" "server/udev"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event3  - PixArt USB Optical Mouse: is tagged by udev as: Mouse
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event3  - PixArt USB Optical Mouse: device set to 1000 DPI
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event3  - PixArt USB Optical Mouse: device is a pointer
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event3  - PixArt USB Optical Mouse: device removed
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb3/3-9/3-9:1.0/0003:093A:2510.0001/input/input3/event3"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) XINPUT: Adding extended input device "PixArt USB Optical Mouse" (type: MOUSE, id 12)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) Option "AccelerationScheme" "none"
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) PixArt USB Optical Mouse: (accel) selected scheme none/0
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) PixArt USB Optical Mouse: (accel) acceleration factor: 2.000
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (**) PixArt USB Optical Mouse: (accel) acceleration threshold: 4
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event3  - PixArt USB Optical Mouse: is tagged by udev as: Mouse
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event3  - PixArt USB Optical Mouse: device set to 1000 DPI
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) event3  - PixArt USB Optical Mouse: device is a pointer
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device PixArt USB Optical Mouse (/dev/input/mouse0)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device HDA Intel PCH Front Mic (/dev/input/event10)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device HDA Intel PCH Rear Mic (/dev/input/event11)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device HDA Intel PCH Line (/dev/input/event12)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device HDA Intel PCH Line Out (/dev/input/event13)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) config/udev: Adding input device HDA Intel PCH Front Headphone (/dev/input/event14)
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) No input driver specified, ignoring this device.
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) This device may have been added with another device file.
+Aug 30 18:12:26 audist-Veriton-M200-H81 systemd[7429]: Started D-Bus User Message Bus.
+Aug 30 18:12:26 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] AppArmor D-Bus mediation is enabled
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: /etc/gdm3/Xsession: Beginning session setup...
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: localuser:audist being added to access control list
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting DISPLAY=:1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: localuser:audist being added to access control list
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting CLUTTER_IM_MODULE=xim
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting LANG=en_IN
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting DISPLAY=:1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting USERNAME=audist
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting USER=audist
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting QT4_IM_MODULE=xim
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting TEXTDOMAINDIR=/usr/share/locale/
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting PWD=/home/audist
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting HOME=/home/audist
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting TEXTDOMAIN=im-config
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting WINDOWPATH=3
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting SHELL=/bin/bash
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting QT_IM_MODULE=xim
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting IM_CONFIG_PHASE=2
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting SHLVL=1
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting LANGUAGE=en_IN:en
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting GDMSESSION=ubuntu
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting LOGNAME=audist
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+Aug 30 18:12:26 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+Aug 30 18:12:27 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.6' (uid=1000 pid=7561 comm="/usr/lib/gnome-session/gnome-session-check-acceler" label="unconfined")
+Aug 30 18:12:27 audist-Veriton-M200-H81 systemd[7429]: Starting Accessibility services bus...
+Aug 30 18:12:27 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.a11y.Bus'
+Aug 30 18:12:27 audist-Veriton-M200-H81 systemd[7429]: Started Accessibility services bus.
+Aug 30 18:12:27 audist-Veriton-M200-H81 at-spi-bus-launcher[7563]: dbus-daemon[7568]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=7561 comm="/usr/lib/gnome-session/gnome-session-check-acceler" label="unconfined")
+Aug 30 18:12:27 audist-Veriton-M200-H81 at-spi-bus-launcher[7563]: dbus-daemon[7568]: Successfully activated service 'org.a11y.atspi.Registry'
+Aug 30 18:12:27 audist-Veriton-M200-H81 at-spi-bus-launcher[7563]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Aug 30 18:12:27 audist-Veriton-M200-H81 gnome-keyring-ssh.desktop[7583]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): EDID vendor "ACR", prod id 820
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Using EDID range info for horizontal sync
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Using EDID range info for vertical refresh
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Printing DDC gathered Modelines:
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1600x900"x0.0  108.00  1600 1624 1704 1800  900 901 904 1000 +hsync +vsync (60.0 kHz eP)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x0.0   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x0.0   36.00  800 824 896 1024  600 601 603 625 +hsync +vsync (35.2 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x0.0   31.50  640 656 720 840  480 481 484 500 -hsync -vsync (37.5 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x0.0   31.50  640 664 704 832  480 489 492 520 -hsync -vsync (37.9 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x0.0   30.24  640 704 768 864  480 483 486 525 -hsync -vsync (35.0 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x0.0   25.18  640 656 752 800  480 490 492 525 -hsync -vsync (31.5 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "720x400"x0.0   28.32  720 738 846 900  400 412 414 449 -hsync +vsync (31.5 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x1024"x0.0  135.00  1280 1296 1440 1688  1024 1025 1028 1066 +hsync +vsync (80.0 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x0.0   78.75  1024 1040 1136 1312  768 769 772 800 +hsync +vsync (60.0 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x0.0   75.00  1024 1048 1184 1328  768 771 777 806 -hsync -vsync (56.5 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x0.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "832x624"x0.0   57.28  832 864 928 1152  624 625 628 667 -hsync -vsync (49.7 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x0.0   49.50  800 816 896 1056  600 601 604 625 +hsync +vsync (46.9 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x0.0   50.00  800 856 976 1040  600 637 643 666 +hsync +vsync (48.1 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1152x864"x0.0  108.00  1152 1216 1344 1600  864 865 868 900 +hsync +vsync (67.5 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x720"x60.0   74.48  1280 1336 1472 1664  720 721 724 746 -hsync +vsync (44.8 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x800"x0.0   83.50  1280 1352 1480 1680  800 803 809 831 -hsync +vsync (49.7 kHz e)
+Aug 30 18:12:27 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.21' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:12:27 audist-Veriton-M200-H81 systemd[7429]: Starting Virtual filesystem service...
+Aug 30 18:12:27 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gtk.vfs.Daemon'
+Aug 30 18:12:27 audist-Veriton-M200-H81 systemd[7429]: Started Virtual filesystem service.
+Aug 30 18:12:27 audist-Veriton-M200-H81 rtkit-daemon[1027]: Successfully made thread 7611 of process 7611 (n/a) owned by '1000' high priority at nice level -11.
+Aug 30 18:12:27 audist-Veriton-M200-H81 rtkit-daemon[1027]: Supervising 4 threads of 2 processes of 2 users.
+Aug 30 18:12:27 audist-Veriton-M200-H81 rtkit-daemon[1027]: Supervising 4 threads of 2 processes of 2 users.
+Aug 30 18:12:27 audist-Veriton-M200-H81 rtkit-daemon[1027]: Successfully made thread 7612 of process 7611 (n/a) owned by '1000' RT at priority 5.
+Aug 30 18:12:27 audist-Veriton-M200-H81 rtkit-daemon[1027]: Supervising 5 threads of 2 processes of 2 users.
+Aug 30 18:12:27 audist-Veriton-M200-H81 rtkit-daemon[1027]: Supervising 5 threads of 2 processes of 2 users.
+Aug 30 18:12:27 audist-Veriton-M200-H81 rtkit-daemon[1027]: Successfully made thread 7613 of process 7611 (n/a) owned by '1000' RT at priority 5.
+Aug 30 18:12:27 audist-Veriton-M200-H81 rtkit-daemon[1027]: Supervising 6 threads of 2 processes of 2 users.
+Aug 30 18:12:27 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.141' (uid=1000 pid=7611 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating service name='org.freedesktop.portal.IBus' requested by ':1.26' (uid=1000 pid=7627 comm="ibus-daemon --xim --panel disable " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.freedesktop.portal.IBus'
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating service name='org.gnome.Shell.CalendarServer' requested by ':1.21' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.30' (uid=1000 pid=7646 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Starting Evolution source registry...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating service name='org.gnome.OnlineAccounts' requested by ':1.31' (uid=1000 pid=7650 comm="/usr/lib/evolution/evolution-source-registry " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 goa-daemon[7658]: goa-daemon version 3.28.0 starting
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating service name='org.gnome.Identity' requested by ':1.32' (uid=1000 pid=7658 comm="/usr/lib/gnome-online-accounts/goa-daemon " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gnome.OnlineAccounts'
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gnome.Identity'
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Started Evolution source registry.
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gnome.Shell.CalendarServer'
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.137' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[1]: Starting Location Lookup Service...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[1]: Started Location Lookup Service.
+Aug 30 18:12:28 audist-Veriton-M200-H81 gnome-shell[7588]: Telepathy is not available, chat integration will be disabled.
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.21' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Starting Virtual filesystem service - disk device monitor...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Started Virtual filesystem service - disk device monitor.
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.21' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Starting Virtual filesystem service - GNOME Online Accounts monitor...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Started Virtual filesystem service - GNOME Online Accounts monitor.
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.21' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Started Virtual filesystem service - Media Transfer Protocol monitor.
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.21' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Starting Virtual filesystem service - Apple File Conduit monitor...
+Aug 30 18:12:28 audist-Veriton-M200-H81 gvfs-afc-volume-monitor[7687]: Volume monitor alive
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Started Virtual filesystem service - Apple File Conduit monitor.
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.21' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Starting Virtual filesystem service - digital camera monitor...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Started Virtual filesystem service - digital camera monitor.
+Aug 30 18:12:28 audist-Veriton-M200-H81 spice-vdagent[7757]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.148' (uid=1000 pid=7699 comm="/usr/lib/gnome-settings-daemon/gsd-rfkill " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[1]: Starting Hostname Service...
+Aug 30 18:12:28 audist-Veriton-M200-H81 gsd-xsettings[7717]: Failed to get current display configuration state: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.gnome.Mutter.DisplayConfig" does not exist
+Aug 30 18:12:28 audist-Veriton-M200-H81 gnome-shell[7588]: JS WARNING: [/usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com/appIcons.js 1028]: unreachable code after return statement
+Aug 30 18:12:28 audist-Veriton-M200-H81 gnome-session[7465]: gnome-session-binary[7465]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Aug 30 18:12:28 audist-Veriton-M200-H81 gnome-session-binary[7465]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+Aug 30 18:12:28 audist-Veriton-M200-H81 gsd-sharing[7702]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-user-share-webdav.service not loaded.
+Aug 30 18:12:28 audist-Veriton-M200-H81 gsd-sharing[7702]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit rygel.service not loaded.
+Aug 30 18:12:28 audist-Veriton-M200-H81 gsd-sharing[7702]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-remote-desktop.service not loaded.
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[1]: Started Hostname Service.
+Aug 30 18:12:28 audist-Veriton-M200-H81 gsd-color[1085]: failed to set screen _ICC_PROFILE: Failed to open file “/home/audist/.local/share/icc/edid-cc1bf881beed38457ece6e0765c1b80a.icc”: Permission denied
+Aug 30 18:12:28 audist-Veriton-M200-H81 gsd-color[1686]: failed to set screen _ICC_PROFILE: Failed to open file “/home/audist/.local/share/icc/edid-cc1bf881beed38457ece6e0765c1b80a.icc”: Permission denied
+Aug 30 18:12:28 audist-Veriton-M200-H81 gnome-session-binary[7465]: Entering running state
+Aug 30 18:12:28 audist-Veriton-M200-H81 kernel: [ 1081.913664] rfkill: input handler disabled
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gnome.evolution.dataserver.Calendar7' unit='evolution-calendar-factory.service' requested by ':1.30' (uid=1000 pid=7646 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Starting Evolution calendar service...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.158' (uid=1000 pid=7746 comm="/usr/lib/gnome-settings-daemon/gsd-keyboard " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[1]: Starting Locale Service...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Successfully activated service 'org.freedesktop.locale1'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[1]: Started Locale Service.
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating service name='org.freedesktop.FileManager1' requested by ':1.58' (uid=1000 pid=7807 comm="nautilus-desktop " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.freedesktop.FileManager1'
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gnome.evolution.dataserver.Calendar7'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Started Evolution calendar service.
+Aug 30 18:12:28 audist-Veriton-M200-H81 ubuntu-report[7441]: level=error msg="data were not delivered successfully to metrics server, retrying in 30s"
+Aug 30 18:12:28 audist-Veriton-M200-H81 gnome-shell[7588]: Error looking up permission: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.impl.portal.PermissionStore was not provided by any .service files
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating service name='ca.desrt.dconf' requested by ':1.58' (uid=1000 pid=7807 comm="nautilus-desktop " label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'ca.desrt.dconf'
+Aug 30 18:12:28 audist-Veriton-M200-H81 gsd-color[1085]: failed to set screen _ICC_PROFILE: Failed to open file “/home/audist/.local/share/icc/edid-cc1bf881beed38457ece6e0765c1b80a.icc”: Permission denied
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gnome.evolution.dataserver.AddressBook9' unit='evolution-addressbook-factory.service' requested by ':1.65' (uid=1000 pid=7841 comm="/usr/lib/evolution/evolution-calendar-factory-subp" label="unconfined")
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Starting Evolution address book service...
+Aug 30 18:12:28 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gnome.evolution.dataserver.AddressBook9'
+Aug 30 18:12:28 audist-Veriton-M200-H81 systemd[7429]: Started Evolution address book service.
+Aug 30 18:12:29 audist-Veriton-M200-H81 gnome-shell[7588]: GNOME Shell started at Fri Aug 30 2019 18:12:28 GMT+0530 (IST)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): EDID vendor "ACR", prod id 820
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Using hsync ranges from config file
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Using vrefresh ranges from config file
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Printing DDC gathered Modelines:
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1600x900"x0.0  108.00  1600 1624 1704 1800  900 901 904 1000 +hsync +vsync (60.0 kHz eP)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x0.0   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x0.0   36.00  800 824 896 1024  600 601 603 625 +hsync +vsync (35.2 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x0.0   31.50  640 656 720 840  480 481 484 500 -hsync -vsync (37.5 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x0.0   31.50  640 664 704 832  480 489 492 520 -hsync -vsync (37.9 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x0.0   30.24  640 704 768 864  480 483 486 525 -hsync -vsync (35.0 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "640x480"x0.0   25.18  640 656 752 800  480 490 492 525 -hsync -vsync (31.5 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "720x400"x0.0   28.32  720 738 846 900  400 412 414 449 -hsync +vsync (31.5 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x1024"x0.0  135.00  1280 1296 1440 1688  1024 1025 1028 1066 +hsync +vsync (80.0 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x0.0   78.75  1024 1040 1136 1312  768 769 772 800 +hsync +vsync (60.0 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x0.0   75.00  1024 1048 1184 1328  768 771 777 806 -hsync -vsync (56.5 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1024x768"x0.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "832x624"x0.0   57.28  832 864 928 1152  624 625 628 667 -hsync -vsync (49.7 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x0.0   49.50  800 816 896 1056  600 601 604 625 +hsync +vsync (46.9 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "800x600"x0.0   50.00  800 856 976 1040  600 637 643 666 +hsync +vsync (48.1 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1152x864"x0.0  108.00  1152 1216 1344 1600  864 865 868 900 +hsync +vsync (67.5 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x720"x60.0   74.48  1280 1336 1472 1664  720 721 724 746 -hsync +vsync (44.8 kHz e)
+Aug 30 18:12:36 audist-Veriton-M200-H81 /usr/lib/gdm3/gdm-x-session[7454]: (II) modeset(0): Modeline "1280x800"x0.0   83.50  1280 1352 1480 1680  800 803 809 831 -hsync +vsync (49.7 kHz e)
+Aug 30 18:12:52 audist-Veriton-M200-H81 pulseaudio[7611]: [pulseaudio] bluez5-util.c: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Aug 30 18:12:53 audist-Veriton-M200-H81 gsd-color[1686]: failed to set screen _ICC_PROFILE: Failed to open file “/home/audist/.local/share/icc/edid-cc1bf881beed38457ece6e0765c1b80a.icc”: Permission denied
+Aug 30 18:13:08 audist-Veriton-M200-H81 ubuntu-report[7441]: level=error msg="data were not delivered successfully to metrics server, retrying in 60s"
+Aug 30 18:13:29 audist-Veriton-M200-H81 gnome-software[7928]: enabled plugins: packagekit-proxy, fwupd, os-release, packagekit-refine-repos, packagekit-upgrade, packagekit-offline, systemd-updates, packagekit-local, packagekit-url-to-app, packagekit, ubuntuone, packagekit-refresh, desktop-categories, shell-extensions, appstream, hardcoded-featured, desktop-menu-path, hardcoded-blacklist, generic-updates, steam, hardcoded-popular, ubuntu-reviews, packagekit-refine, rewrite-resource, modalias, provenance, packagekit-history, snap, provenance-license, icons, key-colors, key-colors-metadata
+Aug 30 18:13:29 audist-Veriton-M200-H81 gnome-software[7928]: disabled plugins: repos, dpkg, dummy, odrs, epiphany
+Aug 30 18:13:30 audist-Veriton-M200-H81 PackageKit: get-updates transaction /332_aabcdbab from uid 1000 finished with success after 484ms
+Aug 30 18:13:30 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating service name='org.gnome.Nautilus' requested by ':1.21' (uid=1000 pid=7588 comm="/usr/bin/gnome-shell " label="unconfined")
+Aug 30 18:13:30 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gnome.Nautilus'
+Aug 30 18:13:31 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.166' (uid=1000 pid=7955 comm="/usr/bin/nautilus --gapplication-service " label="unconfined")
+Aug 30 18:13:31 audist-Veriton-M200-H81 systemd[1]: Starting Hostname Service...
+Aug 30 18:13:31 audist-Veriton-M200-H81 dbus-daemon[788]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Aug 30 18:13:31 audist-Veriton-M200-H81 systemd[1]: Started Hostname Service.
+Aug 30 18:13:31 audist-Veriton-M200-H81 nautilus[7955]: Called "net usershare info" but it failed: Failed to execute child process “net” (No such file or directory)
+Aug 30 18:13:31 audist-Veriton-M200-H81 gnome-shell[7588]: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem :1.70/org/ayatana/NotificationItem/software_update_available
+Aug 30 18:13:36 audist-Veriton-M200-H81 gnome-software[7928]: Only 0 apps for recent list, hiding
+Aug 30 18:13:37 audist-Veriton-M200-H81 gvfsd[7595]: mkdir failed on directory /var/cache/samba: Permission denied
+Aug 30 18:13:37 audist-Veriton-M200-H81 gvfsd[7595]: mkdir failed on directory /var/cache/samba: Permission denied
+Aug 30 18:13:38 audist-Veriton-M200-H81 PackageKit: resolve transaction /333_decabbed from uid 1000 finished with success after 337ms
+Aug 30 18:13:38 audist-Veriton-M200-H81 gvfsd[7595]: mkdir failed on directory /var/cache/samba: Permission denied
+Aug 30 18:13:38 audist-Veriton-M200-H81 gvfsd[7595]: mkdir failed on directory /var/cache/samba: Permission denied
+Aug 30 18:13:38 audist-Veriton-M200-H81 PackageKit: search-file transaction /334_dbedcddc from uid 1000 finished with success after 366ms
+Aug 30 18:13:39 audist-Veriton-M200-H81 PackageKit: search-file transaction /335_cabccceb from uid 1000 finished with success after 378ms
+Aug 30 18:13:39 audist-Veriton-M200-H81 gvfsd[7595]: mkdir failed on directory /var/cache/samba: Permission denied
+Aug 30 18:13:39 audist-Veriton-M200-H81 gvfsd[7595]: mkdir failed on directory /var/cache/samba: Permission denied
+Aug 30 18:13:39 audist-Veriton-M200-H81 PackageKit: search-file transaction /336_babbdeca from uid 1000 finished with success after 359ms
+Aug 30 18:13:40 audist-Veriton-M200-H81 PackageKit: search-file transaction /337_adbbaaae from uid 1000 finished with success after 368ms
+Aug 30 18:13:40 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.72' (uid=1000 pid=7955 comm="/usr/bin/nautilus --gapplication-service " label="unconfined")
+Aug 30 18:13:40 audist-Veriton-M200-H81 systemd[7429]: Starting Virtual filesystem metadata service...
+Aug 30 18:13:40 audist-Veriton-M200-H81 dbus-daemon[7462]: [session uid=1000 pid=7462] Successfully activated service 'org.gtk.vfs.Metadata'
+Aug 30 18:13:40 audist-Veriton-M200-H81 systemd[7429]: Started Virtual filesystem metadata service.
+Aug 30 18:13:40 audist-Veriton-M200-H81 gvfsd-metadata[8047]: g_udev_device_has_property: assertion 'G_UDEV_IS_DEVICE (device)' failed
+Aug 30 18:13:40 audist-Veriton-M200-H81 gvfsd-metadata[8047]: message repeated 7 times: [ g_udev_device_has_property: assertion 'G_UDEV_IS_DEVICE (device)' failed]
+Aug 30 18:13:40 audist-Veriton-M200-H81 PackageKit: search-file transaction /338_ecabbcec from uid 1000 finished with success after 373ms
+Aug 30 18:13:41 audist-Veriton-M200-H81 PackageKit: search-file transaction /339_cbadbead from uid 1000 finished with success after 339ms
+Aug 30 18:13:41 audist-Veriton-M200-H81 PackageKit: search-file transaction /340_dcddeeeb from uid 1000 finished with success after 355ms
+Aug 30 18:13:42 audist-Veriton-M200-H81 PackageKit: search-file transaction /341_cbbbcbce from uid 1000 finished with success after 347ms
+Aug 30 18:13:42 audist-Veriton-M200-H81 PackageKit: get-details transaction /342_eccaebdd from uid 1000 finished with success after 310ms
+Aug 30 18:14:09 audist-Veriton-M200-H81 gnome-software[7928]: failed to call gs_plugin_add_category_apps on snap: lookup api.snapcraft.io on 127.0.0.53:53: server misbehaving
+Aug 30 18:14:09 audist-Veriton-M200-H81 PackageKit: resolve transaction /343_cacbedca from uid 1000 finished with success after 338ms
+Aug 30 18:14:09 audist-Veriton-M200-H81 gnome-software[7928]: hiding category graphics featured applications: found only 1 to show, need at least 9
+Aug 30 18:14:10 audist-Veriton-M200-H81 gnome-software[7928]: failed to call gs_plugin_add_popular on snap: lookup api.snapcraft.io on 127.0.0.53:53: server misbehaving
+Aug 30 18:14:10 audist-Veriton-M200-H81 gnome-software[7928]: failed to call gs_plugin_add_featured on snap: lookup api.snapcraft.io on 127.0.0.53:53: server misbehaving
+Aug 30 18:14:10 audist-Veriton-M200-H81 gnome-software[7928]: failed to call gs_plugin_add_category_apps on snap: lookup api.snapcraft.io on 127.0.0.53:53: server misbehaving
+Aug 30 18:14:10 audist-Veriton-M200-H81 gnome-software[7928]: hiding category productivity featured applications: found only 0 to show, need at least 9
+Aug 30 18:14:11 audist-Veriton-M200-H81 PackageKit: resolve transaction /344_dbacadcc from uid 1000 finished with success after 454ms
+Aug 30 18:14:11 audist-Veriton-M200-H81 PackageKit: resolve transaction /345_addeabcd from uid 1000 finished with success after 349ms
+Aug 30 18:14:11 audist-Veriton-M200-H81 gnome-software[7928]: Only 8 apps for popular list, hiding
+Aug 30 18:14:18 audist-Veriton-M200-H81 ubuntu-report[7441]: level=error msg="data were not delivered successfully to metrics server, retrying in 120s"
+Aug 30 18:14:31 audist-Veriton-M200-H81 PackageKit: get-updates transaction /346_aeedcbde from uid 1000 finished with success after 450ms
+Aug 30 18:14:33 audist-Veriton-M200-H81 org.gnome.Shell.desktop[7588]: (/usr/lib/firefox/firefox:8352): dconf-WARNING **: 18:14:33.471: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
